@@ -5457,10 +5457,10 @@ body.search-visible {
   white-space: nowrap;
   border-radius: 25px;
   position: relative;
-  background-image: linear-gradient(to right, #ff5a62 0%, #191A43 100%);
+  background-image: linear-gradient(to right, #F69329 0%, #191A43 100%);
   background-image: -webkit-linear-gradient(to right, #F69329 0%, #191A43 100%);
   background-image: -ms-linear-gradient(to right, #F69329 0%, #191A43 100%);
-  box-shadow: 0px 8px 16px 0px rgba(229, 29, 40, 0.4);
+  box-shadow: 0px 8px 16px 0px rgba(246, 147, 41, 0.4);
   -webkit-transition: all 0.4s linear;
   transition: all 0.4s linear;
   background-size: 200% auto;
